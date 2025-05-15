@@ -21,3 +21,8 @@ $ npm start
 ## License
 
 ![](https://img.shields.io/github/license/cuongw/color-picker.svg?style=flat-square)
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Action beats perfection.
+🧑‍💻
+<!-- INSPIRATIONAL_QUOTE_END -->
