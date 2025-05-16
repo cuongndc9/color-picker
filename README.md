@@ -23,6 +23,6 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/color-picker.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
+Stay curious. Keep learning. Keep growing.
 🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
