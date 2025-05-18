@@ -24,6 +24,6 @@ $ npm start
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🐶
+Stay curious. Keep learning. Keep growing.
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
