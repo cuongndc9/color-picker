@@ -22,3 +22,8 @@ $ npm start
 
 ![](https://img.shields.io/github/license/cuongw/color-picker.svg?style=flat-square)
 
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Be a lifelong learner, not a know-it-all.
+🦖
+<!-- INSPIRATIONAL_QUOTE_END -->
